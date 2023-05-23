@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T19:24:19 EET" name="Default suite" finished-at="2023-05-22T19:26:33 EET" duration-ms="134385">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T19:24:19 EET" name="Default test" finished-at="2023-05-22T19:26:33 EET" duration-ms="134385">
+      <class name="AlMosafer_2_Class">
+        <test-method is-config="true" signature="MyBeforeTest()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:19 EET" name="MyBeforeTest" finished-at="2023-05-22T19:24:22 EET" duration-ms="3048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyBeforeTest -->
+        <test-method signature="Check22_Default_Language_Is_English22()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:22 EET" name="Check22_Default_Language_Is_English22" description="Test Number 2" finished-at="2023-05-22T19:24:22 EET" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check22_Default_Language_Is_English22 -->
+        <test-method signature="Check_Default_Language_Is_English()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:22 EET" name="Check_Default_Language_Is_English" description="Test Number 1" finished-at="2023-05-22T19:24:22 EET" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Default_Language_Is_English -->
+        <test-method signature="Check_Qitaf_Logo()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:22 EET" name="Check_Qitaf_Logo" description="Test Number 6" finished-at="2023-05-22T19:24:22 EET" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Qitaf_Logo -->
+        <test-method signature="Check_The_ContactNumber()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:22 EET" name="Check_The_ContactNumber" description="Test Number 5" finished-at="2023-05-22T19:24:22 EET" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_The_ContactNumber -->
+        <test-method signature="Check_The_Currency()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:22 EET" name="Check_The_Currency" description="Test Number 3" finished-at="2023-05-22T19:24:23 EET" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_The_Currency -->
+        <test-method signature="Check_The_Title()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:23 EET" name="Check_The_Title" description="Test Number 4" finished-at="2023-05-22T19:24:23 EET" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_The_Title -->
+        <test-method signature="FlightDepartureDate()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:23 EET" name="FlightDepartureDate" finished-at="2023-05-22T19:24:23 EET" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightDepartureDate -->
+        <test-method signature="FlightIstChecked()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:23 EET" name="FlightIstChecked" description="Test Number 8" finished-at="2023-05-22T19:24:23 EET" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightIstChecked -->
+        <test-method signature="FlightReturnDate()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:23 EET" name="FlightReturnDate" finished-at="2023-05-22T19:24:23 EET" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightReturnDate -->
+        <test-method signature="checktherandomlanguagekk()[pri:0, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:23 EET" name="checktherandomlanguagekk" finished-at="2023-05-22T19:24:24 EET" duration-ms="1368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktherandomlanguagekk -->
+        <test-method signature="AdddirectionCities()[pri:1, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:24:24 EET" name="AdddirectionCities" finished-at="2023-05-22T19:25:07 EET" duration-ms="42840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdddirectionCities -->
+        <test-method signature="AdddirectionCities()[pri:1, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:25:07 EET" name="AdddirectionCities" finished-at="2023-05-22T19:25:51 EET" duration-ms="44248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdddirectionCities -->
+        <test-method signature="AdddirectionCities()[pri:1, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:25:51 EET" name="AdddirectionCities" finished-at="2023-05-22T19:26:03 EET" duration-ms="11568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdddirectionCities -->
+        <test-method signature="AdddirectionCities()[pri:1, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:26:03 EET" name="AdddirectionCities" finished-at="2023-05-22T19:26:32 EET" duration-ms="29616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdddirectionCities -->
+        <test-method signature="RoomSelection()[pri:2, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:26:32 EET" name="RoomSelection" finished-at="2023-05-22T19:26:33 EET" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoomSelection -->
+        <test-method signature="RoomSelection()[pri:2, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:26:33 EET" name="RoomSelection" finished-at="2023-05-22T19:26:33 EET" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoomSelection -->
+        <test-method signature="RoomSelection()[pri:2, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:26:33 EET" name="RoomSelection" finished-at="2023-05-22T19:26:33 EET" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoomSelection -->
+        <test-method signature="RoomSelection()[pri:2, instance:AlMosafer_2_Class@4cfbaf4]" started-at="2023-05-22T19:26:33 EET" name="RoomSelection" finished-at="2023-05-22T19:26:33 EET" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoomSelection -->
+      </class> <!-- AlMosafer_2_Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
